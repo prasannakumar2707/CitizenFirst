@@ -1,19 +1,43 @@
-# Citizen First
+# CitizenFirst
 
-Welcome to Citizen First. This platform is designed to empower citizens by providing access to vital information and resources that enhance community engagement and promote civic participation.
+![CitizenFirst Logo](https://example.com/logo.png)
 
-## Key Features
-- User-friendly interface that allows quick navigation.
-- Comprehensive resources for various civic needs.
-- Community engagement tools that facilitate collaboration.
+## Features
+- **User-Friendly Interface**: Intuitive design for all users.
+- **Real-Time Notifications**: Stay updated with the latest information.
+- **Enhanced Security**: Robust security measures to protect user data.
 
 ## Getting Started
-To get started with Citizen First, please follow these steps:
-1. Sign up for an account.
-2. Explore available resources and tools at your disposal.
-3. Engage with your community and participate in civic activities.
 
-## Support
-For any queries or support, please contact our team via the support page. We value all feedback to improve our services and features.
+### Prerequisites
+- Node.js version 12 or higher
+- npm version 6 or higher
 
-Thank you for being a part of Citizen First. Together, we can make a difference!
+### Installation
+1. Clone the repository:
+   ```bash
+   git clone https://github.com/prasannakumar2707/CitizenFirst.git
+   ```
+2. Navigate into the directory:
+   ```bash
+   cd CitizenFirst
+   ```
+3. Install dependencies:
+   ```bash
+   npm install
+   ```
+
+## Usage
+- Start the application:
+   ```bash
+   npm start
+   ```
+
+## Contributions
+We welcome contributions! Please check the [Contributing Guidelines](LINK_TO_GUIDELINES).
+
+## License
+This project is licensed under the MIT License.
+
+## Contact
+For any inquiries, please reach out to [prasannakumar2707@example.com](mailto:prasannakumar2707@example.com).
