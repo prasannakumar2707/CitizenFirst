@@ -1,8 +1,4 @@
-Here’s a **professional, ready-to-use `README.md` file** you can paste into your repository `prasannakumar2707/CitizenFirst` and then customize with your own project details. This follows widely accepted best practices for GitHub readmes (clear structure, badges, features, setup, usage, etc.) and will make your project look polished and developer-friendly. ([GitHub][1])
 
----
-
-````markdown
 # CitizenFirst
 
 [![GitHub stars](https://img.shields.io/github/stars/prasannakumar2707/CitizenFirst.svg?style=flat)](https://github.com/prasannakumar2707/CitizenFirst/stargazers)
